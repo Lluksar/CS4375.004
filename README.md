@@ -10,6 +10,6 @@
 ## hw2_linear_models
  Assignment Two for CS4375.004. The document involving Regression can be found [here](Regression.pdf) and the document involving Classification can be found [here](Classification.pdf)
 
-## Assignedment_4
+## Assignment_4
  Assignment Four for CS4375.004. The document answering questions can be found [here](Assignment_4.pdf) and the code can be found [here](logreg.cpp) and [here](naive.cpp)
 
